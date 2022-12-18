@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Uppi28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Upendra
+- 👀 I’m interested in front end technologies
+- 🌱 I’m currently learning three.js
+- 💞️ I’m looking to collaborate on some pet projects
+- 📫 How to reach me @uppi28
 
 <!---
 Uppi28/Uppi28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
